@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name"> proyecto-movil</string>
+    <string name="title_activity_main"> proyecto-movil</string>
+    <string name="package_name">com.movil.app</string>
+    <string name="custom_url_scheme">com.movil.app</string>
+</resources>
